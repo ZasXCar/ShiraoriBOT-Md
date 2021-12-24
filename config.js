@@ -1,4 +1,4 @@
-global.owner = ['6281351047727'] // Put your number here
+global.owner = ['6283807449268'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -22,9 +22,9 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.author = 'ZasXCar'
 
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
+global.wm = '© ShiraoriBOT-Md Made by ZasXCar'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
